@@ -14,6 +14,8 @@ Programmer styudying Big Data and Bussiness Intelligence.
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
 )
 
+
+
 ######Details:
 
 ![Git_Status](https://github-readme-stats.vercel.app/api?username=lukecardoso&hide=contribs,prs)
@@ -29,5 +31,8 @@ Programmer styudying Big Data and Bussiness Intelligence.
 
 
 ######Contacts:
+
+![[Linkedin](https://www.linkedin.com/in/lucascardoso92/)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)
 
 
