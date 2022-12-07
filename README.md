@@ -4,7 +4,7 @@
 
 Programmer styudying Big Data and Bussiness Intelligence. 
 
-######Skills:
+###### Skills:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 )
@@ -16,21 +16,21 @@ Programmer styudying Big Data and Bussiness Intelligence.
 
 
 
-######Details:
+###### Details:
 
 ![Git_Status](https://github-readme-stats.vercel.app/api?username=lukecardoso&hide=contribs,prs)
 
-######Projects:
+###### Projects:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lukecardoso&repo=github-readme-stats)](https://github.com/lukecardoso/github-readme-stats)
 
 
-######Main Languages:
+###### Main Languages:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukecardoso)](https://github.com/lukecardoso/github-readme-stats)
 
 
-######Contacts:
+###### Contacts:
 
 ![[Linkedin](https://www.linkedin.com/in/lucascardoso92/)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )
