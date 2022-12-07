@@ -30,9 +30,9 @@ Programmer styudying Big Data and Bussiness Intelligence.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukecardoso)](https://github.com/lukecardoso/github-readme-stats)
 
 
-###### Contacts:
+<!--###### Contacts:
 
 ![[Linkedin](https://www.linkedin.com/in/lucascardoso92/)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)
+)-->
 
 
