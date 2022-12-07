@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hello, my name is Lucas 👋
+
+###### About me:
+
+###Skills:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+)
+
+![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
+)
 
 <!--
 **lukecardoso/lukecardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
