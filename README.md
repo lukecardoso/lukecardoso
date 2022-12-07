@@ -3,6 +3,7 @@
 ###### About me:
 
 ###Skills:
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 )
 
@@ -10,6 +11,10 @@
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
 )
+
+####Details:
+
+![Git_Status](https://github-readme-stats.vercel.app/api?username=lukecardoso&hide=contribs,prs)
 
 <!--
 **lukecardoso/lukecardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
